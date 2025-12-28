@@ -79,7 +79,7 @@ Example structure:
 ```
 project-root/
 │
-├── dataset/
+├── Dataset/
 │ └── suicide_data.csv
 ```
 
@@ -131,7 +131,8 @@ Suicide-Detection-Using-Social-Media-Impressions/
 │ └── BILSTM_model.pkl
 │
 ├── Dataset/ # Dataset files
-│
+│ └── suicide_data.csv
+|
 ├── notebook.ipynb # Model training & evaluation
 ├── app.py # Streamlit web application
 ├── requirements.txt
