@@ -1,3 +1,6 @@
+Dataset/*
 venv/
 **/.ipynb_checkpoints/
 **/__pycache__/
+app.log
+code_thesis.py
